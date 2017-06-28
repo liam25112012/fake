@@ -1,7 +1,7 @@
  {
   "fake": "1",
   "idadmod": {
-       "baner": "ca-app-pub-1667805177474426/3007691591",
+       "baner": "ca-app-pub-7940222731820762/7089763339",
 	    "banerfull": "ca-app-pub-1667805177474426/4484424796"
   },
   "version": {
